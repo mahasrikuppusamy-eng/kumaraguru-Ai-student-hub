@@ -1,5 +1,5 @@
 export function registerServiceWorker(): void {
-  if (typeof window !== 'undefined' && 'serviceWorker' in navigator && process.env.NODE_ENV === 'production') {
+  if (typeof window !== 'undefined' && 'serviceWorker' in navigator && import.meta.env.PROD) {
     window.addEventListener('load', () => {
       // Use relative service worker path for GitHub Pages and sub-directory hosting compatibility
       const swUrl = './sw.js';
