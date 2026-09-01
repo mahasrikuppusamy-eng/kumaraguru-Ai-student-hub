@@ -1,0 +1,38 @@
+{
+  "name": "Kumaraguru AI Student Hub",
+  "short_name": "KCT AI Hub",
+  "description": "AI-Powered Student Engagement, Events, Matchmaking & Smart Campus Portal for Kumaraguru College.",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hackathons Arena",
+      "short_name": "Hackathons",
+      "description": "Check upcoming hackathons and eligibility",
+      "url": "./#hackathons",
+      "icons": [{ "src": "./icon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "AI Matchmaker",
+      "short_name": "Matchmaker",
+      "description": "Find AI teammates for projects",
+      "url": "./#matches",
+      "icons": [{ "src": "./icon.svg", "sizes": "192x192" }]
+    }
+  ]
+}

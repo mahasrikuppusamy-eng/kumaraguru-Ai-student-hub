@@ -11,8 +11,10 @@ import {
   UserCheck, 
   AlertTriangle,
   Check,
-  ArrowRight
+  ArrowRight,
+  Download
 } from 'lucide-react';
+import { InstallAppModal } from './InstallAppBanner';
 
 interface NavbarProps {
   currentUser: Student | null;
