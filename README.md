@@ -3,6 +3,8 @@
 > **AI-Powered Student Engagement, Events & Smart Campus Platform**  
 > Complete Full-Stack Web Application Prototype for Hackathons, College Projects & Tech Demonstrations.
 
+🌐 **Live Demo URL:** [https://mahasrikuppusamy-eng.github.io/kumaraguru-Ai-student-hub/](https://mahasrikuppusamy-eng.github.io/kumaraguru-Ai-student-hub/)
+
 ---
 
 ## 🌟 Executive Overview
