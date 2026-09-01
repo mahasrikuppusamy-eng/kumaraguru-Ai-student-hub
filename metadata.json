@@ -1,0 +1,7 @@
+{
+  "name": "Kumaraguru AI Student Hub",
+  "description": "AI-Powered Student Engagement, Events & Smart Campus Assistant for Kumaraguru College",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
